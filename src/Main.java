@@ -1,5 +1,9 @@
 import java.util.Random;
 
+/**
+ * @author mads
+ * Program decides if a random number is odd or even
+ */
 public class Main {
 
 	public static void main(String[] args) {
